@@ -2,9 +2,8 @@
 
 ## Dashboard Overview
 
-The Retail Revenue Intelligence Dashboard is an interactive Tableau dashboard built using the UCI Online Retail II dataset.
+The [Retail Revenue Intelligence Dashboard](https://public.tableau.com/views/RetailRevenueIntelligence/RetailRevenueIntelligenceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) is an interactive Tableau dashboard built using the [UCI Online Retail II dataset.](https://archive.ics.uci.edu/dataset/502/online%2Bretail)
 
-View the live dashboard [here](https://public.tableau.com/views/RetailRevenueIntelligence/RetailRevenueIntelligenceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 The dashboard is designed to transform transaction level retail data into an executive friendly view of business performance. It allows users to explore revenue trends, customer performance, product performance, geographic performance, and other key areas of the business through interactive visualizations.
 
