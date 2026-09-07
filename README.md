@@ -6,9 +6,8 @@ Retail Revenue Intelligence is a data analytics portfolio project using the UCI 
 
 The project uses historical retail transaction data to study revenue, customers, products, and international markets. The work includes data profiling, cleaning, SQL analysis, and a completed Tableau Public dashboard.
 
-View the live dashboard <a href="https://public.tableau.com/views/RetailRevenueIntelligence/RetailRevenueIntelligenceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank" rel="noopener noreferrer">
-  here
-</a>
+View the live dashboard [here](https://public.tableau.com/views/RetailRevenueIntelligence/RetailRevenueIntelligenceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 ## Dataset
 
