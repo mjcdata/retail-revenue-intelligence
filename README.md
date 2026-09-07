@@ -1,3 +1,5 @@
+![Retail Revenue Intelligence](assets/banner.png)
+
 # Retail Revenue Intelligence
 
 ## Overview
